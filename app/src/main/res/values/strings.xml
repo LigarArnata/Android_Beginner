@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="idol_name">Nama Idol</string>
+    <string name="description">Deskripsi</string>
+    <string name="hwang_yeji">Hwang Yeji</string>
+    <string name="YejiDetail">Hwang Ye-Ji (황예지) atau Yeji (예지) (lahir 26 Mei 2000, umur 21 tahun) adalah seorang penyanyi Korea Selatan di bawah kontrak JYP Entertainment. Ia adalah anggota grup vokal perempuan Korea ITZY.</string>
+    <string name="choi_jisu">Choi Jisu</string>
+    <string name="LiaDetail">Choi Jisu atau lebih dikenal dengan nama Lia ITZY, merupakan salah satu idol K-Pop yang debut pada tahun 2019 sebagai member ITZY. Ya, ITZY menjadi salah satu idol K-Pop yang banyak menarik perhatian, tidak hanya visual mereka namun juga tampilan yang kuat dan energik. Lia ITZY lahir pada 21 Juli 2000 di Incheon, Korea Selatan.</string>
+    <string name="shin_ryujin">Shin Ryujin</string>
+    <string name="RyujinDetail">Ryujin alias Shin Ryu Jin adalah anggota ketiga dari grup ITZY yang merupakan rapper utama, penari utama, sub-penyanyi, dan center. Lahir pada 17 April 2001 di Seoul, Korea Selatan.</string>
+    <string name="lee_chaeryong">Lee Chaeryong</string>
+    <string name="ChaeryongDetail">Lee Chae-ryeong (Hangul: 이채령, lahir 5 Juni 2001) adalah seorang penyanyi dan penari asal Korea Selatan. Ia merupakan anggota dari grup vokal wanita, Itzy, yang dikelola oleh JYP Entertainment.</string>
+    <string name="shin_yuna">Shin Yuna</string>
+    <string name="YunaDetail">Yuna alias Shin Yu Na ini menjadi member terakhir sekaligus termuda di grup ITZY yang memiliki posisi sebagai lead rapper, lead dancer, sub vocalist, dan visual. Lahir pada 9 Desember 2003 di Suwon, Korea Selatan.</string>
+    <string name="yu_jimin">Yu Jimin</string>
+    <string name="KarinaDetail">Karina atau Yu Jimin merupakan idol yang cukup aktif di media sosial dan merupakan mantan ulzzang. “Ulzzang” sendiri adalah istilah yang populer di Korea Selatan yang memiliki arti “wajah terbaik” atau tampan dan cantik. “Ulzzang” bisa juga disebut sebagai selebgram versi Korea yang sangat populer. Karina mengawali kariernya sebagai ulzzang hingga akhirnya di DM melalui instagram oleh SM Entertainment untuk audisi pada tahun 2016.</string>
+    <string name="seol_yoon_a">Seol Yoon A</string>
+    <string name="SullyoonDetail">Sullyoon adalah salah satu member girl group NMIXX yang visual mencuri perhatian sejak ia debut. Banyak pengemar Kpop yang terpana dengan kecantikan yang dimilikinya. Ia disebut memiliki campuran visual Sana dan Tzuyu Twice. Perempuan berusia 18 tahun ini mengambil peran sebagai vokal di group NMIXX, salah satu girl grup yang dinaungi oleh JYP Entertainment.</string>
+    <string name="oh_haewon">Oh Haewon</string>
+    <string name="HaewonDetail">Oh Hae Won atau lebih dikenal dengan Haewon, merupakan leader sekaligus vokalis girl group Korea Selatan NMIXX. Dia lahir pada 25 Februari 2003 di Incheon, Korea Selatan.</string>
+    <string name="kim_minji">Kim Min Ji</string>
+    <string name="MinjiDetail">Kim Min Ji adalah nama lengkapnya, dia lahir pada tanggal 7 Mei 2004 pada usia 18 tahun (2022) di Yeongwol, Korea Selatan dan Minji memiliki tinggi 169 cm. Minji adalah leader atau pemimpin dan anggota senior grup K-pop New Jeans di bawah label ADOR (anak perusahaan Hybe Corporation).</string>
+    <string name="ningning">Ningning</string>
+    <string name="NingningDetail">Ningning lahir dengan nama asli Ning Yi Zhuo pada 23 Oktober 2002, di Harbin, Heilongjiang, Tiongkok. Heilongjiang, tempat kelahiran Ningning adalah provinsi paling timur laut Tiongkok yang berbatasan dengan Rusia. Ayah Ningning adalah seorang insinyur dan ibunya adalah seorang penyanyi. Ningning tidak memiliki saudara kandung, ia adalah anak tunggal.</string>
+    <string name="about">About</string>
+    <string name="nama">Ligar Arsa Arnata</string>
+    <string name="email">a004d4ky3922@bangkit.academy</string>
+    <string-array name="data_name">
+        <item>Yeji</item>
+        <item>Jisu</item>
+        <item>Ryujin</item>
+        <item>Chaeryong</item>
+        <item>Yuna</item>
+        <item>Karina</item>
+        <item>Sullyoon</item>
+        <item>Haewon</item>
+        <item>Minji</item>
+        <item>Ningning</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Hwang Ye-Ji (황예지) atau Yeji (예지) (lahir 26 Mei 2000; umur 21 tahun) adalah seorang penyanyi Korea Selatan di bawah kontrak JYP Entertainment. Ia adalah anggota grup vokal perempuan Korea ITZY.</item>
+        <item>Choi Jisu atau lebih dikenal dengan nama Lia ITZY, merupakan salah satu idol K-Pop yang debut pada tahun 2019 sebagai member ITZY. Ya, ITZY menjadi salah satu idol K-Pop yang banyak menarik perhatian, tidak hanya visual mereka namun juga tampilan yang kuat dan energik. Lia ITZY lahir pada 21 Juli 2000 di Incheon, Korea Selatan.</item>
+        <item>Ryujin alias Shin Ryu Jin adalah anggota ketiga dari grup ITZY yang merupakan rapper utama, penari utama, sub-penyanyi, dan center. Lahir pada 17 April 2001 di Seoul, Korea Selatan.</item>
+        <item>Lee Chae-ryeong (Hangul: 이채령, lahir 5 Juni 2001) adalah seorang penyanyi dan penari asal Korea Selatan. Ia merupakan anggota dari grup vokal wanita, Itzy, yang dikelola oleh JYP Entertainment.</item>
+        <item>Yuna alias Shin Yu Na ini menjadi member terakhir sekaligus termuda di grup ITZY yang memiliki posisi sebagai lead rapper, lead dancer, sub vocalist, dan visual. Lahir pada 9 Desember 2003 di Suwon, Korea Selatan.</item>
+        <item>Karina merupakan idol yang cukup aktif di media sosial dan merupakan mantan ulzzang. “Ulzzang” sendiri adalah istilah yang populer di Korea Selatan yang memiliki arti “wajah terbaik” atau tampan dan cantik. “Ulzzang” bisa juga disebut sebagai selebgram versi Korea yang sangat populer. Karina mengawali kariernya sebagai ulzzang hingga akhirnya di DM melalui instagram oleh SM Entertainment untuk audisi pada tahun 2016.</item>
+        <item>Sullyoon adalah salah satu member girl group NMIXX yang visual mencuri perhatian sejak ia debut. Banyak pengemar Kpop yang terpana dengan kecantikan yang dimilikinya. Ia disebut memiliki campuran visual Sana dan Tzuyu Twice. Perempuan berusia 18 tahun ini mengambil peran sebagai vokal di group NMIXX, salah satu girl grup yang dinaungi oleh JYP Entertainment.</item>
+        <item>Oh Hae Won atau lebih dikenal dengan Haewon, merupakan leader sekaligus vokalis girl group Korea Selatan NMIXX. Dia lahir pada 25 Februari 2003 di Incheon, Korea Selatan.</item>
+        <item>Kim Min Ji adalah nama lengkapnya, dia lahir pada tanggal 7 Mei 2004 pada usia 18 tahun (2022) di Yeongwol, Korea Selatan dan Minji memiliki tinggi 169 cm. Minji adalah leader atau pemimpin dan anggota senior grup K-pop New Jeans di bawah label ADOR (anak perusahaan Hybe Corporation).</item>
+        <item>Ningning lahir dengan nama asli Ning Yi Zhuo pada 23 Oktober 2002, di Harbin, Heilongjiang, Tiongkok. Heilongjiang, tempat kelahiran Ningning adalah provinsi paling timur laut Tiongkok yang berbatasan dengan Rusia. Ayah Ningning adalah seorang insinyur dan ibunya adalah seorang penyanyi. Ningning tidak memiliki saudara kandung, ia adalah anak tunggal.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/yeji</item>
+        <item>@drawable/lia</item>
+        <item>@drawable/ryujin</item>
+        <item>@drawable/chaery</item>
+        <item>@drawable/yuna</item>
+        <item>@drawable/karina</item>
+        <item>@drawable/sullyon</item>
+        <item>@drawable/haewon</item>
+        <item>@drawable/minji</item>
+        <item>@drawable/ningning</item>
+    </integer-array>
+</resources>
